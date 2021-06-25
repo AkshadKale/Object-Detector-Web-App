@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 24px ;
+}
+
+.a_tag{
+    margin-top: 25px;
+    font-weight: bolder;
+    width: 50%;
+    border-radius: 25px;
+    font-size: 20px ;
+    padding: 5px;
+    box-shadow: 5px 5px 5px grey;
+    background-color: orange;
+} 
+
+.a_tag a{
+    color: white;
+}
+
+
