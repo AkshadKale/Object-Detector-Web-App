@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+}
+
+#back_button{
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.heading{
+    font-size: 21px;
+}
+
+canvas{
+    border: 5px solid wheat;
+    border-radius: 20px;
+}
